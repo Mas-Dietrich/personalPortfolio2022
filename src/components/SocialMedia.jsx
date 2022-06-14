@@ -6,13 +6,13 @@ import {FaFacebookF} from 'react-icons/fa';
 const Socialmedia = () => (
     <div className="app__social">
         <div>
-            <BsLinkedin />
+            <BsLinkedin url="https://www.linkedin.com/in/mason-dietrich-88a890240/" />
         </div>
         <div>
-            <FaFacebookF />
+            <FaFacebookF url="https://www.facebook.com/mason.dietrich.18" />
         </div>
         <div>
-            <BsInstagram />
+            <BsInstagram url="https://www.instagram.com/mas_dietrich/" />
         </div>
     </div>
   );
