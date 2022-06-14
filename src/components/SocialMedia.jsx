@@ -9,10 +9,10 @@ const Socialmedia = () => (
             <a href="https://www.linkedin.com/in/mason-dietrich-88a890240/"><BsLinkedin /></a>
         </div>
         <div>
-            <a href="https://www.facebook.com/mason.dietrich.18"><FaFacebookF/></a>
+            <a href="https://www.facebook.com/mason.dietrich.18"><FaFacebookF /></a>
         </div>
         <div>
-            <a href="https://www.instagram.com/mas_dietrich/"><BsInstagram/></a>
+            <a href="https://www.instagram.com/mas_dietrich/"><BsInstagram /></a>
         </div>
     </div>
   );
